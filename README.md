@@ -2,7 +2,7 @@
 My name is Armand and i am from France. 
 Currently in engineering school in the fields of Automation, I just discoverd how to code for fun and try to learn how to use GitHub and some knew programation languages.
 # Current projet
-I currently learn to use Java with a school project where you can check my progress in my repo : 
+I currently learn to use Java with a school project where you can check my progress in my repo : [GreenErConsumptionStudent](https://github.com/WodiHero01/GreenErConsumptionStudent) 
 
 
 ## How to reach me 
